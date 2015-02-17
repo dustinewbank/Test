@@ -8,3 +8,6 @@ function addToElement(elementid,text){
 function replaceToElement(elementid,text){
     document.getElementById(elementid).innerHTML = text;
 }
+function createCanvas(size,errorText){
+    
+}
